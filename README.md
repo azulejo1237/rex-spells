@@ -20,7 +20,7 @@
 
 ### Interfaz Principal
 <p align="center">
-<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="interfaz principal" width="600"/>
+<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="interfaz principal" width="800"/>
 </p>
 
 *Vista del overlay en funcionamiento mostrando los hechizos enemigos*
@@ -30,7 +30,7 @@
 ### Funciones Principales
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="270"/>
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="240"/>
 </p>
 
 <p align="center">
