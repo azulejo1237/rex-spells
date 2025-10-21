@@ -16,16 +16,12 @@
 
 ### Durante la Partida
 <table>
-<tr>
 [Rex spells muestra 1](https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1)
 ![Rex spells muestra 2](https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2)
 ![Rex spells muestra 3](https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328)
 ![Rex spells muestra 4](https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3)
-</tr>
-<tr>
 <td align="center"><em>Overlay activo con temporizadores</em></td>
 <td align="center"><em>Panel de configuración</em></td>
-</tr>
 </table>
 
 ### Configuración
