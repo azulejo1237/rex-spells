@@ -25,7 +25,7 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1" alt="Rex spells overlay activo" width="380"/>
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="250"/>
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="200"/>
 </p>
 
 <p align="center">
