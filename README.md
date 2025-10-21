@@ -33,12 +33,12 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="380"/>
- <em> Panel de configuració</em>
+Panel de configuració
 </p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells estados" width="460"/>
-<em>Diferentes estados del overlay</em>
+Diferentes estados del overlay
 </p>
 
 </div>
