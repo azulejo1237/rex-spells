@@ -17,14 +17,15 @@
 <div align="center">
 
 ### Interfaz Principal
-![Rex spells muestra 1](https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b)
+<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="Rex spells interfaz principal" width="600"/>
+
 *Vista del overlay en funcionamiento mostrando los hechizos enemigos*
 
 ### Durante la Partida
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1" alt="Rex spells muestra 1" width="400"/></td>
-<td><img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells muestra 2" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1" alt="Rex spells muestra 1" width="300"/></td>
+<td><img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells muestra 2" width="300"/></td>
 </tr>
 <tr>
 <td align="center"><em>Overlay activo con temporizadores</em></td>
@@ -34,8 +35,8 @@
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells muestra 3" width="400"/></td>
-<td><img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells muestra 4" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells muestra 3" width="300"/></td>
+<td><img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells muestra 4" width="300"/></td>
 </tr>
 <tr>
 <td align="center"><em>Panel de configuración</em></td>
