@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-<em>Overlay activo con temporizadores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<em>Overlay activo con temporizadores</em>
 </p>
 
 <p align="center">
