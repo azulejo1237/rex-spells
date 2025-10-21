@@ -11,26 +11,39 @@
 [📥 Descargar](#-descarga) • [⚙️ Instalación](#%EF%B8%8F-instalación) • [🎮 Uso](#-uso) • [📋 Requisitos](#-requisitos)
 
 </div>
-![Rex spells muestra 1](https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b)
 
+## 🖼️ Capturas de Pantalla
+
+<div align="center">
+
+### Interfaz Principal
+![Rex spells muestra 1](https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b)
+*Vista del overlay en funcionamiento mostrando los hechizos enemigos*
 
 ### Durante la Partida
 <table>
-[Rex spells muestra 1](https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1)
-![Rex spells muestra 2](https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2)
-![Rex spells muestra 3](https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328)
-![Rex spells muestra 4](https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3)
+<tr>
+<td><img src="https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1" alt="Rex spells muestra 1" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells muestra 2" width="400"/></td>
+</tr>
+<tr>
 <td align="center"><em>Overlay activo con temporizadores</em></td>
-<td align="center"><em>Panel de configuración</em></td>
+<td align="center"><em>Panel flotante en partida</em></td>
+</tr>
 </table>
 
-### Configuración
-![Screenshot Configuración](screenshots/settings-panel.png)
-*Panel de configuración del overlay*
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells muestra 3" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells muestra 4" width="400"/></td>
+</tr>
+<tr>
+<td align="center"><em>Panel de configuración</em></td>
+<td align="center"><em>Diferentes estados del overlay</em></td>
+</tr>
+</table>
 
 </div>
-
-
 
 ## 📖 Descripción
 
