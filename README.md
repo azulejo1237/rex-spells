@@ -26,7 +26,7 @@
 ### Funciones Principales
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="250"/>
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="290"/>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="380"/>
+<img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="400"/>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-<em>Diferentes estados del overlay</em>
+<em>Icono de Bandeja</em>
 </p>
 
 </div>
