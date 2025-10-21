@@ -26,7 +26,7 @@
 ### Funciones Principales
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="290"/>
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="270"/>
 </p>
 
 <p align="center">
