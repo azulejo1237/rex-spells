@@ -17,7 +17,9 @@
 <div align="center">
 
 ### Interfaz Principal
-<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="Rex spells interfaz principal" width="500"/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="interfaz principal" width="600"/>
+</p>
 
 *Vista del overlay en funcionamiento mostrando los hechizos enemigos*
 
