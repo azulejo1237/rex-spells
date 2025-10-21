@@ -1,78 +1,159 @@
-Rex spells
-Overlay para League of Legends que muestra los hechizos de invocador de los campeones enemigos y permite marcarlos para ver su enfriamiento en tiempo real mediante la API local del cliente.
+# Rex Spells
 
-Vista rápida
+<div align="center">
+  
+![Rex Spells Logo](https://img.shields.io/badge/Rex%20Spells-v1.0.0-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Rex spells muestra 1](https://github.com/user-attachments/assets/766d7521-3383-44a9-b2f1-29d39059d07a)
-![Rex spells muestra 2](https://github.com/user-attachments/assets/d009137f-c8d9-42c9-900b-49e96c1a7d0c)
-![Rex spells muestra 3](https://github.com/user-attachments/assets/76702698-92aa-4d21-b41a-4e3ca1cc997d)
-![Rex spells muestra 4](https://github.com/user-attachments/assets/2be5fedd-3475-4b63-99fb-f58df139f294)
+**Overlay para League of Legends que muestra los hechizos de invocador de los campeones enemigos con temporizadores en tiempo real**
 
-Características
-Visualiza a los campeones enemigos con sus dos hechizos de invocador.
+[📥 Descargar](#-descarga) • [⚙️ Instalación](#%EF%B8%8F-instalación) • [🎮 Uso](#-uso) • [📋 Requisitos](#-requisitos)
 
-Haz clic sobre un hechizo para iniciar o limpiar su temporizador.
+</div>
+![Rex spells muestra 1](https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b)
 
-Panel flotante siempre visible, con bloqueo de arrastre, colapsar/expandir y ajuste de opacidad.
 
-Icono único en la bandeja del sistema con acciones Mostrar/Ocultar y Salir.
+### Durante la Partida
+<table>
+<tr>
+<td>![Rex spells muestra 1](https://github.com/user-attachments/assets/194cea09-5e25-476b-a89c-c2d05847adf1)</td>
+<td>![Rex spells muestra 2](https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2)</td>
+<td>![Rex spells muestra 3](https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328)</td>
+<td>![Rex spells muestra 4](https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3)
+</td>
+</tr>
+<tr>
+<td align="center"><em>Overlay activo con temporizadores</em></td>
+<td align="center"><em>Panel de configuración</em></td>
+</tr>
+</table>
 
-Sondeo adaptativo: rápido durante la partida, lento fuera de partida para consumir menos recursos.
+### Configuración
+![Screenshot Configuración](screenshots/settings-panel.png)
+*Panel de configuración del overlay*
 
-Requisitos
-Windows 10/11.
+</div>
 
-Cliente de League of Legends ejecutándose con la API local liveclientdata disponible en 127.0.0.1:2999.
 
-Para captura fiable del overlay, usar modo ventana o pantalla completa sin bordes en el juego.
 
-Descarga
-Ve a la sección Releases del repositorio y descarga el ejecutable más reciente.
+## 📖 Descripción
 
-No es necesario instalar; se ejecuta como una aplicación de escritorio.
+Rex Spells es una aplicación overlay para League of Legends que te permite rastrear los hechizos de invocador enemigos de forma visual y eficiente. Utilizando la API local del cliente de League of Legends, la aplicación muestra los campeones enemigos con sus dos hechizos de invocador y permite iniciar temporizadores con un simple clic.
 
-Uso
-Ejecuta Rex spells y coloca el panel donde prefieras.
+## ✨ Características
 
-Botones de la barra superior: engranaje (configurar), guion (colapsar), candado (bloquear o permitir arrastre).
+- 🎯 **Visualización de campeones enemigos** con sus dos hechizos de invocador
+- ⏱️ **Sistema de temporizadores** - Haz clic sobre un hechizo para iniciar o limpiar su temporizador
+- 🪟 **Panel flotante siempre visible** con funcionalidades de:
+  - Bloqueo/desbloqueo de arrastre
+  - Colapsar/expandir
+  - Ajuste de opacidad
+- 🔔 **Icono en bandeja del sistema** con acciones rápidas (Mostrar/Ocultar y Salir)
+- 🚀 **Sondeo adaptativo** - Rápido durante la partida, lento fuera de partida para optimizar recursos
 
-Desde el icono de la bandeja puedes mostrar/ocultar rápidamente o salir.
+## 📋 Requisitos
 
-Problemas conocidos y explicación técnica
-Modo de pantalla obligatorio: debe usarse en ventana o sin bordes.
+- **Sistema Operativo**: Windows 10/11
+- **League of Legends** ejecutándose con la API local liveclientdata disponible en `127.0.0.1:2999`
+- **Modo de visualización**: Para captura fiable del overlay, usar:
+  - Modo ventana
+  - Pantalla completa sin bordes
 
-Razón: en pantalla completa exclusiva el juego toma control exclusivo de la salida gráfica y no muestra ventanas externas por encima, de modo que un overlay de escritorio no puede dibujarse de forma fiable sin inyección en el proceso del juego.
+> ⚠️ **Nota**: No funciona en modo pantalla completa exclusiva debido a limitaciones de Windows.
 
-Decisión: se evita cualquier inyección o hooking por seguridad y para no violar términos del juego, por eso el requisito se mantiene.
+## 📥 Descarga
 
-Cambio del cursor tras hacer clic en el overlay: el cursor del juego se sustituye por el cursor de Windows hasta pasar el mouse por encima de un objeto del juego (torreta, súbdito, etc.).
+Ve a la sección [**Releases**](https://github.com/azulejo1237/rex-spells/releases) del repositorio y descarga la última versión del ejecutable.
 
-Razón: al hacer clic, el overlay recibe el foco y Windows restaura el cursor del sistema; el cliente de LoL vuelve a aplicar su cursor personalizado cuando procesa movimiento sobre elementos de juego. Sin inyectar eventos sintéticos ni hooks globales de bajo nivel (que podrían ser riesgosos), no hay forma limpia de forzar esa restauración inmediata.
+- ✅ **Sin instalación requerida** - Se ejecuta como aplicación de escritorio
+- 📦 **Archivo único** - Todo incluido en el ejecutable
 
-Solución actual: mover el mouse sobre cualquier entidad del juego o realizar un alt‑tab breve para que LoL recupere el foco y re‑aplique su cursor.
+## ⚙️ Instalación
 
-Estado: se deja así por diseño para priorizar compatibilidad y evitar técnicas intrusivas.
+1. Descarga el archivo `rex-spells.exe` desde [Releases](https://github.com/azulejo1237/rex-spells/releases)
+2. Coloca el archivo en la carpeta de tu preferencia
+3. Ejecuta `rex-spells.exe` - ¡Listo para usar!
 
-Icono fantasma en bandeja tras cierres anómalos.
+## 🎮 Uso
 
-Razón: el sistema puede cachear iconos si la aplicación no alcanza a notificar su retirada.
+### Configuración Inicial
+1. Ejecuta Rex Spells
+2. Inicia League of Legends
+3. Coloca el panel donde prefieras en tu pantalla
 
-Mitigación: el programa oculta y destruye el icono al salir, pero si el proceso se cierra a la fuerza, el sistema puede tardar en limpiar el icono residual.
+### Controles del Panel
+- **⚙️ Engranaje**: Abrir configuración
+- **➖ Guión**: Colapsar/expandir panel
+- **🔒 Candado**: Bloquear/permitir arrastre del panel
 
-Disponibilidad de datos: fuera de partida la API local puede no responder.
+### Icono de Bandeja
+Desde el icono en la bandeja del sistema puedes:
+- 👁️ **Mostrar/Ocultar** rápidamente la aplicación
+- ❌ **Salir** de la aplicación
 
-Comportamiento: el overlay reduce la frecuencia de sondeo y limpia la UI tras varios intentos sin datos.
+### Funcionamiento
+- Los **hechizos aparecen automáticamente** cuando entras en una partida
+- **Haz clic** en cualquier hechizo para activar su temporizador de enfriamiento
+- El **temporizador se muestra en tiempo real** sobre el hechizo
+- **Haz clic nuevamente** para limpiar el temporizador
 
-Privacidad y seguridad
-La aplicación solo lee la API local del cliente en 127.0.0.1; no envía datos a terceros.
+## ⚠️ Limitaciones Conocidas
 
-No modifica archivos del juego ni inyecta código en el proceso del cliente.
+### Modo Pantalla Completa
+- **Problema**: Debe usarse en modo ventana o sin bordes
+- **Razón**: En pantalla completa exclusiva, el juego toma control exclusivo de la salida gráfica
+- **Solución**: Usar modo ventana o pantalla completa sin bordes en League of Legends
 
-Créditos
+### Cambio de Cursor
+- **Problema**: El cursor del juego se sustituye por el cursor de Windows tras hacer clic
+- **Razón**: Al hacer clic, el overlay recibe el foco y Windows restaura el cursor del sistema
+- **Solución**: Mover el mouse sobre cualquier entidad del juego o realizar Alt+Tab breve
+
+### Icono Fantasma
+- **Problema**: Puede quedar un icono residual en la bandeja tras cierres anómalos
+- **Razón**: El sistema cachea iconos si la aplicación no notifica su retirada
+- **Mitigación**: El programa limpia automáticamente al salir normal
+
+## 🔒 Privacidad y Seguridad
+
+- ✅ **Solo lectura local**: La aplicación únicamente lee la API local del cliente en `127.0.0.1`
+- ✅ **Sin datos externos**: No envía información a terceros
+- ✅ **No intrusivo**: No modifica archivos del juego ni inyecta código
+- ✅ **Seguro**: Cumple con los términos de servicio de Riot Games
+
+## 🛠️ Tecnologías
+
+- **Python** - Lenguaje principal
+- **Tkinter** - Interfaz gráfica
+- **Requests** - Comunicación con API
+- **Threading** - Procesamiento asíncrono
+- **PyInstaller** - Empaquetado de ejecutable
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor:
+
+1. Haz un Fork del proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## 🏆 Créditos
+
 Proyecto creado íntegramente con asistencia de IA, con ediciones y pruebas manuales para integración y empaquetado.
 
-Licencia
-MIT. Consulta el archivo LICENSE en la raíz del repositorio.
+---
 
+<div align="center">
 
-[Descargar la ultima version](https://github.com/azulejo1237/rex-spells/releases/download/v1.0.0/Rex.spells.exe)
+**¿Te gustó Rex Spells? ¡Dale una ⭐ al repositorio!**
+
+[🐛 Reportar Bug](https://github.com/azulejo1237/rex-spells/issues) • [💡 Solicitar Feature](https://github.com/azulejo1237/rex-spells/issues)
+
+</div>
