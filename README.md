@@ -20,7 +20,7 @@
 
 ### Interfaz Principal
 <p align="center">
-<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="interfaz principal" width="730"/>
+<img src="https://github.com/user-attachments/assets/918a2d92-ce45-401e-8f0b-e608d8e1c58b" alt="interfaz principal" width="700"/>
 </p>
 
 *Vista del overlay en funcionamiento mostrando los hechizos enemigos*
