@@ -73,3 +73,6 @@ Proyecto creado íntegramente con asistencia de IA, con ediciones y pruebas manu
 
 Licencia
 MIT. Consulta el archivo LICENSE en la raíz del repositorio.
+
+
+[Descargar la ultima version] (https://github.com/azulejo1237/rex-spells/releases/download/v1.0.0/Rex.spells.exe)
