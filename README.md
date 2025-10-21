@@ -24,20 +24,27 @@
 ### Funciones Principales
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells overlay activo" width="380"/>
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="145"/>
+</p>
+
+<p align="center">
+<em>Overlay activo con temporizadores</em>
+</p>
+
+<p align="center">
 <img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="380"/>
 </p>
 
 <p align="center">
-<em>Overlay activo con temporizadores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panel de configuración</em>
+<em>Panel de configuració</em>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells vista completa" width="380"/>
+<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells estados" width="460"/>
 </p>
 
 <p align="center">
-<em>Vista completa del overlay funcionando durante una partida</em>
+<em>Diferentes estados del overlay</em>
 </p>
 
 </div>
