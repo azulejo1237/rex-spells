@@ -21,31 +21,25 @@
 
 *Vista del overlay en funcionamiento mostrando los hechizos enemigos*
 
-### Funciones Principales
+### Funciones del Overlay
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells panel flotante" width="145"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5d998fe3-8df5-4370-9c84-e240dedaf8a2" alt="Rex spells overlay activo" width="300"/>
+<br><em>Overlay activo con temporizadores</em>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="300"/>
+<br><em>Panel de configuración</em>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<em>Overlay activo con temporizadores</em>
-</p>
+### Vista Completa en Funcionamiento
+<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells vista completa" width="500"/>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="380"/>
-</p>
-
-<p align="center">
-<em>Panel de configuració</em>
-</p>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells estados" width="460"/>
-</p>
-
-<p align="center">
-<em>Diferentes estados del overlay</em>
-</p>
+*Demostración completa del overlay funcionando durante una partida*
 
 </div>
 
