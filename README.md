@@ -75,4 +75,4 @@ Licencia
 MIT. Consulta el archivo LICENSE en la raíz del repositorio.
 
 
-[Descargar la ultima version] (https://github.com/azulejo1237/rex-spells/releases/download/v1.0.0/Rex.spells.exe)
+[Descargar la ultima version](https://github.com/azulejo1237/rex-spells/releases/download/v1.0.0/Rex.spells.exe)
