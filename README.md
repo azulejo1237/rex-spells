@@ -33,7 +33,7 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d81b2ebf-e41e-495d-81ee-912441bce328" alt="Rex spells configuración" width="380"/>
-<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells estados" width="380"/>
+<img src="https://github.com/user-attachments/assets/4c204701-e9be-4bf4-93e4-d07898d395e3" alt="Rex spells estados" width="420"/>
 </p>
 
 <p align="center">
